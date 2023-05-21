@@ -11,7 +11,7 @@ Google drive link to download the build:- https://drive.google.com/file/d/1nwrJ_
 
 ## Concept
 
-Gameplay: The player starts in a virtual rural village where the inhabitants still use traditional methods in their daily routines. The task of the player is to educate the villagers about modern methods and techniques that can improve their quality of life. To do this, the player must use in-game resources and their own knowledge to interact with the villagers and teach them about the new methods.
+<b>Gameplay</b>: The player starts in a virtual rural village where the inhabitants still use traditional methods in their daily routines. The task of the player is to educate the villagers about modern methods and techniques that can improve their quality of life. To do this, the player must use in-game resources and their own knowledge to interact with the villagers and teach them about the new methods.
 
 Objectives:
 

@@ -21,5 +21,5 @@ Gameplay mechanics:
 
 <b>Resource management:</b> The player must manage their in-game resources, such as money and knowledge, to achieve their objectives.<br>
 <b>Villager interactions:</b> The player must interact with the villagers and teach them about the new methods and techniques.<br>
-Quests and challenges: The player must complete quests and challenges to progress in the game and unlock new resources and knowledge.<br>
+<b>Quests and challenges:</b> The player must complete quests and challenges to progress in the game and unlock new resources and knowledge.<br>
 The game can have an educational and informational aspect, as the player will learn about different aspects of rural development, such as sustainable agriculture, renewable energy, and waste management. The game can also have a social aspect, as the player will learn about the challenges faced by rural communities and the importance of empowering them through education.

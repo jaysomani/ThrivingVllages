@@ -7,7 +7,7 @@ Google drive link to download the build:- https://drive.google.com/file/d/1nwrJ_
 ## Follow steps to play
    1. Unzip the file.
    2. execute the terrain.exe file.
-   3.  instructions and Enjoy playing.
+   3. Follow instructions and Enjoy playing.
 
 ## Concept
 
